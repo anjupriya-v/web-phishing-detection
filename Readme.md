@@ -1,15 +1,14 @@
-# Web Phishing Detection
-
-## Demo Video
-
-https://user-images.githubusercontent.com/84177086/228294560-6992908b-8467-4b71-8499-990644c11721.mp4
-
+# Web Phishing Detection - Team Project
 
 ## Team Members
 - <a href="https://github.com/anjupriya-v">Anju Priya V</a>
 - <a href="https://github.com/sreelakshmig009">Sree Lakshmi G</a>
 - <a href="https://github.com/saadhanag13">Saadhana G</a>
 - <a href="https://github.com/M-Venkatachalam">Venkatachalam M</a>
+
+## Demo Video
+
+https://user-images.githubusercontent.com/84177086/228294560-6992908b-8467-4b71-8499-990644c11721.mp4
 
 ## Tech Stacks Used
 
